@@ -1,5 +1,5 @@
-# Krizticraft Season 2
-The modpack used for the 2nd season of the Krizticraft minecraft server
+# Smiley's Epic Server
+This is the modpack used for Smiley's Epic Server. While the modpack isn't here yet, below is a list of everything that will be in the modpack
 
 # Modpack details
 - Minecraft version: 1.21.1
@@ -36,7 +36,7 @@ Mods that are **bold** are significant content mods you probably care about
 ## QoL
 - *AppleSkin (Shows food saturation & other food info)*
 - CB Multipart (Allows sawing blocks into smaller parts. Also a dependency for all Project Red mods)
-- **Creeper no Break Blocks** (Creepers don't destroy blocks, while stilll keeping `mobGriefing` on for other mobs)
+- **Creeper no Break Blocks** (Creepers don't destroy blocks, while still keeping `mobGriefing` on for other mobs)
 - *EMI (In-game item & recipe browser)*
   - *EMI Enchanting*
   - *EMI Loot*
