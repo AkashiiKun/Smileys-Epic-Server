@@ -1,5 +1,5 @@
-# Krizticraft Season 2
-The modpack used for the 2nd season of the Krizticraft minecraft server
+# Smiley's Epic Server
+This is the modpack used for Smiley's Epic Server. While the modpack isn't here yet, below is a list of everything that will be in the modpack
 
 # Modpack details
 - Minecraft version: 1.21.1
@@ -41,7 +41,6 @@ Mods that are **bold** are significant content mods you probably care about
 ## QoL
 - *AppleSkin (Shows food saturation & other food info)*
 - CB Multipart (Allows sawing blocks into smaller parts. Also a dependency for all Project Red mods)
-- Construction Wand (Very useful for building big things)s
 - **Creeper no Break Blocks** (Creepers don't destroy blocks, while stilll keeping `mobGriefing` on for other mobs)
 - *EMI (In-game item & recipe browser)*
   - *EMI Enchanting*
@@ -102,7 +101,3 @@ Mods that are **bold** are significant content mods you probably care about
   - Circuit plates have been made slightly less annoying to craft
 - Project Red Transmission
   - Red Alloy Wires (a.k.a. redstone wires) have been made slightly easier to craft
-- Waystones:
-  - Waystones no longer generate naturally, and have to be crafted
-  - Waystones are not free, but cost **less** experience the further apart they are (50 levels at no distance, free at 5000+ blocks). This is to incentivize actual transportation over shorter distances (we have Create: Steam 'n' Rails for trains), while still having a convenient option for really long distances
-  - Waystones are made easier to craft
