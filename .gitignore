@@ -1,0 +1,22 @@
+.mixin.out/
+.sable/
+crash-reports/
+debug/
+downloads/
+journeymap/
+local/
+logs/
+saves/
+screenshots/
+
+emi.json
+icon.png
+options.txt
+ponders_watched.json
+usercache.json
+usernamecache.json
+
+# This file timestamps itself it loads, so it's ignored to prevent a bunch of useless changes
+config/iris.properties
+
+*/*.bak
