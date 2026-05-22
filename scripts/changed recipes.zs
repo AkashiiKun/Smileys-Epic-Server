@@ -19,7 +19,7 @@ for color in colors() {
 }
 
 // Circuit plate
-craftingTable.remove(<item:projectred_core:plate>);
+furnace.remove(<item:projectred_core:plate>);
 craftingTable.addShaped("changed_circuit_plate_form_block", <item:projectred_core:plate> * 4, [[<item:minecraft:smooth_stone>, <item:minecraft:smooth_stone>]]);
 craftingTable.addShaped("changed_circuit_plate_form_slab", <item:projectred_core:plate> * 2, [[<item:minecraft:smooth_stone_slab>, <item:minecraft:smooth_stone_slab>]]);
 

@@ -9,6 +9,7 @@ logs/
 saves/
 screenshots/
 
+command_history.txt
 emi.json
 icon.png
 options.txt
