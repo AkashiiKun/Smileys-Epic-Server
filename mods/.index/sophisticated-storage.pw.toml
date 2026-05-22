@@ -1,0 +1,49 @@
+filename = 'sophisticatedstorage-1.21.1-1.5.48.1728.jar'
+name = 'Sophisticated Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.5.48.1728'
+
+[download]
+hash = 'baebe0e1ec261225ab3039a442054cb38cc5ef2bfbd6c3cf802f9c98370d9b8a7fd7045a19bfc1bf3ea8bc46f379aec3357a6d6a697d982649541b3715dcade5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hMlaZH8f/versions/rIr2XwRH/sophisticatedstorage-1.21.1-1.5.48.1728.jar'
+
+[update.modrinth]
+mod-id = 'hMlaZH8f'
+version = 'rIr2XwRH'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'DMu0oBKf'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'b1fMg6sH'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'qnQsVE2z'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'WRaRZdTd'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nmoqTijg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BAscRYKm'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vRYk0bv7'
+type = 'OPTIONAL'

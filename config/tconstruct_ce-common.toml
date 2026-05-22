@@ -1,0 +1,4 @@
+#Enables early community-port table blocks. Their current behavior is recipe/data driven, not GUI driven yet.
+enableExperimentalTables = true
+#Enables early community-port casting and melting recipe serializers.
+enableExperimentalCasting = true

@@ -1,0 +1,29 @@
+filename = 'ProjectRed-1.21.1-4.22.0-transmission.jar'
+name = 'Project Red Transmission'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.22.0'
+
+[download]
+hash = 'c0cc5af3972620e46a837891e502732c8bf3ddc81ffc3b92427e892e09725962db96adbc25051630438edb3a1ac37478fd6f6a019d0b562cd2dabbf42deb3e6b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dXmH4rEw/versions/uCCUxgX5/ProjectRed-1.21.1-4.22.0-transmission.jar'
+
+[update.modrinth]
+mod-id = 'dXmH4rEw'
+version = 'uCCUxgX5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LmvnWWSV'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '2gq0ALnz'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'zIlxygxr'
+type = 'REQUIRED'

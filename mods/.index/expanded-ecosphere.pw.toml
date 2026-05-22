@@ -1,0 +1,21 @@
+filename = 'expanded_ecosphere-neoforge-3.4.5.jar'
+name = "William Wythers' Expanded Ecosphere"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.4.5'
+
+[download]
+hash = '8e2539d69035c462c96b87425fcf472bb49792f3bb0398be9fd440127235b245c311b193617459850f9429cc6663fd9fc808ea81839464452c9ff7d05efcbad7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O1XGs7ps/versions/P6ibGvmF/expanded_ecosphere-neoforge-3.4.5.jar'
+
+[update.modrinth]
+mod-id = 'O1XGs7ps'
+version = 'P6ibGvmF'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'cl223EMc'
+type = 'REQUIRED'
