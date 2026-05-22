@@ -1,0 +1,7 @@
+print("!!! PRINT ALL BLOCKS FROM RECHISELED !!!");
+for block in game.blocks {
+    if block.registryName.namespace == "rechiseled" && !("slab" in block.registryName.path) && !("stairs" in block.registryName.path) {
+        print(block.registryName.namespace + ":" + block.registryName.path);
+    }
+}
+print("!!! FINISHED PRINTING ALL BLOCKS FROM RECHISELED !!!");
