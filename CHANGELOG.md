@@ -33,6 +33,7 @@
 - Added Create: Enchantment Industry
   - Added Create: Dragons Plus
 - Added Create: Ferronautics
+- Added Create: Nowheel
 - **Added Create: Numismatics**
   - Added Create: Marketplace
 - Added Create: Simulated Thrusters
