@@ -69,6 +69,7 @@
 ## Config changes
 - Create: Added a recipe to crush infested stone into experience nuggets
 - Nutritional Balance: Removed any negative effect from bad nutrition, good nutrition threshold moved slightly up, removed the upper bound on good nutrition
+- Smithing Tweaks: Upgrade template made significantly more expensive to craft, upgrade template given a cheaper duplication recipe
 - Waystones: Recipe is changed to be significantly harder to creaft instead, waystones no longer have any cost or restrictions on use
 
 # v0.2.0
@@ -86,7 +87,6 @@
 ## Config changes
 - FTBChunks: Claims do not prevent others from destorying blocks, force-load limit in a party is multiplied by the party size, max force-loaded chunks reduced to 10, force loaded chunks are loaded while offline
 - Gravestone: Obituary is removed when reclaiming a gravestone
-- Smithing Tweaks: Upgrade template made significantly more expensive to craft, upgrade template given a cheaper duplication recipe
 ## Other
 - Added a changelog file
 - Added a .gitignore file
