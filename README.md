@@ -34,6 +34,7 @@ Mods that are **bold** are significant content mods you probably care about
   - Create: Enchantment Industry
   - **Create: Steam 'n' Rails** (Epic trains) [Note: This is using an unofficial port to 1.21.1, since the official mod is still only in 1.20.1]
   - Create: Vibrant Vaults
+- Critters and Companions
 - **Envelope** (Send mail & messages & mail to other players through pigeons)
 - **Farmer's Delight** (Adds a bunch of foods)
 - Golden Dandelion Backport
@@ -47,8 +48,10 @@ Mods that are **bold** are significant content mods you probably care about
 - **Serene Seasons**
 - Sophisticated Backpacks
 - Sophisticated Storage (Adds bigger chests & barrels)
+- Spawn
 - Star Worm Equestrian
   - Star Worm Plus
+- Tiny Dragons
 - Vanilla Backport
 - **Waystones**
 - YUNG's Better Desert Temples

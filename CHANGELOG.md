@@ -1,3 +1,9 @@
+# 1.0.1
+## Mod changes
+- Added Critters and Companions
+- Added Spawn
+- Added Tiny Dragons
+
 # v1.0.0
 ## Mod changes
 - Added Aeronautics Camera Sync
