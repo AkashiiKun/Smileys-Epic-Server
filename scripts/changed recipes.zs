@@ -57,7 +57,7 @@ craftingTable.addShaped("changed_bus_input_panel", <item:projectred_integration:
 craftingTable.remove(<item:waystones:warp_stone>);
 craftingTable.addShaped("changed_warp_stone", <item:waystones:warp_stone>, [
     [<item:waystones:warp_dust>, <item:waystones:warp_dust>, <item:waystones:warp_dust>],
-    [<item:waystones:warp_dust>, <tag:item:c:gems/emerald>, <item:waystones:warp_dust>],
+    [<item:waystones:warp_dust>, <item:minecraft:ghast_tear>, <item:waystones:warp_dust>],
     [<item:waystones:warp_dust>, <item:waystones:warp_dust>, <item:waystones:warp_dust>]
 ]);
 craftingTable.remove(<item:waystones:warp_dust>);
@@ -73,7 +73,7 @@ function replaceWaystone(output as IItemStack, blockName as string, blockPlurali
     craftingTable.remove(output);
     craftingTable.addShaped("changed_" + output.registryName.path, output, [
         [<item:minecraft:air>, slab],
-        [<item:minecraft:air>, <item:waystones:warp_dust>],
+        [<item:minecraft:air>, <item:waystones:warp_stone>],
         [slab, block, slab]
     ]);
 }
@@ -99,13 +99,71 @@ for color in colors() {
 
 // Portstones
 for color in colors() {
+    <tag:item:waystones:portstones>.addId(BracketHandlers.getItem("waystones:" + color + "_portstone").registryName);
+}
+for color in colors() {
     val portstone = BracketHandlers.getItem("waystones:" + color + "_portstone");
     val dye = <tagmanager:item>.tag("c:dyes/" + color);
     craftingTable.remove(portstone);
     craftingTable.addShaped("changed_" + color + "_portstone", portstone, [
-        [<item:minecraft:air>, <item:minecraft:stone_brick_slab>],
         [<item:minecraft:air>, dye],
+        [<item:waystones:warp_dust>, <item:minecraft:stone_brick_slab>, <item:waystones:warp_dust>],
         [<item:minecraft:stone_brick_slab>, <item:minecraft:stone_bricks>, <item:minecraft:stone_brick_slab>]
     ]);
+    craftingTable.addShapeless("change_" + color + "_portstone_from_recoloring", portstone, [<tag:item:waystones:portstones>, dye]);
 }
 
+// Warp plate
+craftingTable.remove(<item:waystones:warp_plate>);
+craftingTable.addShaped("changed_warp_plate", <item:waystones:warp_plate>, [
+    [<item:waystones:warp_stone>],
+    [<item:minecraft:stone_pressure_plate>]
+]);
+
+// CREATE: NUMISMATICS
+// Vendor
+craftingTable.remove(<item:numismatics:vendor>);
+craftingTable.addShaped("changed_vendor", <item:numismatics:vendor>, [
+    [<item:minecraft:air>, <item:minecraft:glass>],
+    [<item:minecraft:air>, <tag:item:c:ingots/gold>],
+    [<tag:item:c:dusts/redstone>, <tag:item:minecraft:wooden_slabs>, <tag:item:c:dusts/redstone>],
+]);
+
+for color in colors() {
+    // Cards
+    val card = BracketHandlers.getItem("numismatics:" + color + "_card");
+    val dye = <tagmanager:item>.tag("c:dyes/" + color);
+    tooltip(card, "Sneak + Right Click with this to connect it to your bank");
+    craftingTable.remove(card);
+    craftingTable.addShapeless("changed_" + color + "_card", card, [<tag:item:numismatics:cards>, dye]);
+
+    // ID cards
+    val idCard = BracketHandlers.getItem("numismatics:" + color + "_id_card");
+    craftingTable.remove(idCard);
+    craftingTable.addShaped("changed_" + color + "_id_card", idCard, [
+        [<item:minecraft:air>, dye],
+        [<tag:item:c:ingots/iron>, <item:minecraft:paper>, <tag:item:c:nuggets/gold>]
+    ]);
+    craftingTable.addShapeless("changed_" + color + "_id_card_recoloring", idCard, [<tag:item:numismatics:id_cards>, dye]);
+}
+
+// Bank terminal
+craftingTable.remove(<item:numismatics:bank_terminal>);
+craftingTable.addShapedMirrored("changed_bank_terminal", <constant:minecraft:mirroraxis:horizontal>, <item:numismatics:bank_terminal>, [
+    [<item:minecraft:air>, <item:minecraft:air>, <tag:item:c:ingots/iron>],
+    [<item:minecraft:air>, <tag:item:c:storage_blocks/redstone>, <tag:item:c:ingots/iron>],
+    [<tag:item:c:ingots/iron>, <tag:item:c:ingots/iron>, <tag:item:c:ingots/iron>]
+]);
+
+// Upgrade template
+craftingTable.remove(<item:smithing_tweaks:upgradetemplate>);
+craftingTable.addShaped("changed_upgrade_template", <item:smithing_tweaks:upgradetemplate>, [
+    [<item:minecraft:cobblestone>, <item:minecraft:netherite_scrap>, <item:minecraft:cobblestone>],
+    [<tag:item:c:ingots/iron>, <tag:item:c:storage_blocks/diamond>, <tag:item:c:ingots/iron>],
+    [<item:minecraft:cobblestone>, <tag:item:c:storage_blocks/gold>, <item:minecraft:cobblestone>]
+]);
+craftingTable.addShaped("changed_upgrade_template_copy", <item:smithing_tweaks:upgradetemplate> * 2, [
+    [<item:minecraft:cobblestone>, <tag:item:c:ingots/gold>, <item:minecraft:cobblestone>],
+    [<tag:item:c:ingots/iron>, <item:smithing_tweaks:upgradetemplate>, <tag:item:c:ingots/iron>],
+    [<item:minecraft:cobblestone>, <tag:item:c:ingots/iron>, <item:minecraft:cobblestone>]
+]);

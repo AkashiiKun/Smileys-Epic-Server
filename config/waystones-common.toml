@@ -48,11 +48,11 @@
 
 [teleports]
 	#Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
-	enableCosts = true
+	enableCosts = false
 	#Set to false to simply disable all cooldowns. See warpRequirements for more fine-grained control.
 	enableCooldowns = false
 	#List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
-	warpRequirements = ["[is_not_interdimensional] add_xp_cost(51)", "[is_not_interdimensional] scaled_add_xp_cost(distance, -0.01)", "[is_interdimensional] refuse(Interdimensional teleportation is disabled)", "min_xp_cost(0)"]
+	warpRequirements = ["min_xp_cost(0)"]
 	#Set to ENABLED to have nearby pets teleport with you. Set to SAME_DIMENSION to have nearby pets teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
 	#Allowed Values: ENABLED, SAME_DIMENSION, DISABLED
 	transportPets = "DISABLED"

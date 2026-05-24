@@ -1,0 +1,13 @@
+#Settings for Create: Marketplace
+[general]
+	#Waypoint symbol display mode (Xaero's Minimap)
+	#ICON - Uses a shopping cart icon (🛒)
+	#FIRST_LETTER - Uses the first letter of the shop name
+	#CUSTOM - Uses a custom symbol defined below
+	#Allowed Values: ICON, FIRST_LETTER, CUSTOM
+	waypointSymbolMode = "ICON"
+	#Custom waypoint symbol (used only if waypointSymbolMode is set to CUSTOM)
+	customWaypointSymbol = "S"
+	#Should the Registration Card lose durability on use?
+	#If false, the card has infinite uses.
+	useCardDurability = true

@@ -1,0 +1,10 @@
+#.
+#Toggles the need for a transmission to drive a train. (not yet incorporated)
+transmission_toggle = true
+#.
+#Controls which train blocks are added to the sublevel on assembly. 
+#To edit or view go to the config file or use a mod like Configured.
+#Allowed Values: INFO
+blacklist_info = "INFO"
+#List of blocks that are not added to the sublevel on assembly.
+blacklisted_blocks = ["create:controls", "create:small_bogey", "create:large_bogey", "create:train_door"]

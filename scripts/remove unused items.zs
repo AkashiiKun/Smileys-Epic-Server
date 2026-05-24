@@ -44,12 +44,3 @@ stripTagsAndConvert(<item:projectred_core:gold_coil>, <item:minecraft:gold_ingot
 // Sail
 stripTagsAndConvert(<item:projectred_core:sail>, <item:minecraft:string> * 48);
 stripTagsAndConvert(<item:projectred_core:woven_cloth>, <item:minecraft:string> * 8);
-
-// WAYSTONES
-// Return scrolls
-stripTagsAndConvert(<item:waystones:return_scroll>, <item:waystones:warp_scroll>);
-stripTagsAndConvert(<item:waystones:blank_scroll>, <item:waystones:warp_scroll>);
-
-// Warp plate & shard
-stripTagsAndConvert(<item:waystones:warp_plate>, <item:waystones:warp_dust> * 2);
-stripTagsAndConvert(<item:waystones:dormant_shard>, <item:waystones:warp_dust> * 2);

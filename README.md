@@ -2,61 +2,121 @@
 This is the modpack used for Smiley's Epic Server. While the modpack isn't here yet, below is a list of everything that will be in the modpack
 
 # Modpack details
-- Modpack version: 0.2.0
+- Modpack version: 1.0.0
 - Minecraft version: 1.21.1
 - Modloader: Neoforge 21.1.230
 # Mod list
 Mods that are *italicized* are client-side, and therefore optional<br/>
 Mods that are **bold** are significant content mods you probably care about
 ## Content
+- Barched (Adds some mobs from newer game versions back into 1.21.1)
 - Chipped (Tons of variants of many blocks for building)
+- Chisels And Bits (Cut blocks into tiny bits for small building)
+- Cooking For Blockheads (Cook food, but fancy)
+- Copper Age Backport
+  - Copper Age Backport Durability Fix
 - **Create**
   - **Create: Aeronautics** (Aerial transport & physics in minecraft, very epic)
-  - Create: Connected (QoL mechanical blocks for create)
+    - Create Aeronautics: Automated Logistics
+    - Create Aeronautics: Covers
+    - Create Aeronautics: Dyeable Components
+    - **Create: Deep Seas** (Instead of planes, you can also build submarines, very epic)
+    - Create: Simulated Thrusters
+    - Create: Tracks
+    - Drive-By-Wire With Sable
+    - Dyeable Ropes for Create Aeronautics
+  - Create: Better Villages (Also a dependency for Create: Dimensions, Steamworks Realm)
   - Create: Copycats+ (Make stairs, slabs, doors, fences, etc. out of any block texture)
+  - **Create: Dimensions, Steamworks Realm**
+    - Underground Village, Stoneholm
+  - **Create: Numismatics**
+    - Create: Marketplace
+  - Create: Enchantment Industry
   - **Create: Steam 'n' Rails** (Epic trains) [Note: This is using an unofficial port to 1.21.1, since the official mod is still only in 1.20.1]
+  - Create: Vibrant Vaults
+- **Envelope** (Send mail & messages & mail to other players through pigeons)
 - **Farmer's Delight** (Adds a bunch of foods)
+- Golden Dandelion Backport
+- Nutritional balance
 - **Occultism** (Magic wizard slavery)
 - Project Red Core
+  - CB Multipart (Allows sawing blocks into smaller parts. Also a dependency for all Project Red mods)
   - Project Red Integration (Adds redstone logic gates that work with redstone wires)
   - Project Red Transmission (Adds redstone wires that go up to 100+ blocks, can be color-coded, and also works with CB Multipart)
 - Rechiseled (Adds a chisel to easily convert blocks into other variants, handy for building)
-- **Silent Gear** (Replacement for Tinker's Construct, as Tinker's Construct isn't available for 1.21.1)
+- **Serene Seasons**
 - Sophisticated Backpacks
-- Sophisticated Storage (Adds bigger chests)
+- Sophisticated Storage (Adds bigger chests & barrels)
+- Star Worm Equestrian
+  - Star Worm Plus
+- Vanilla Backport
 - **Waystones**
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Extras
 ## World Generation
 - Incendium (More nether biomes)
 - Nullscape (Better end generation)
 - Tectonic (Better terrain generation)
 - **William Wyther's Expanded Ecosphere** (Adds 200+ new biomes and makes biome generation more realistic)
 ## Compatibility
+- *Colorwheel (Compatibility between Iris & Create)*
 - Create Aeronautics: Rechiseled Compatibility (Compatibility between Create: Aeronautics & Rechiseled)
+- Create: Chain Conveyors Compat (Compatibility between Create [chain conveyors] & Create: Aeronautics)
+- Create: Ferronautics (Compatibility between Create: Aeronautics & Create: Steam 'n' Rails)
 - Create: Slice & DIce (Compatibility between Create & Farmer's Delight)
 - *EMI Addon: Extra Mod Integrations (Compatibility between EMI and any other mods with "special" means of crafting things)*
-- Iris & Oculus Flywheel Compat (Compatibility between Iris & Create)
-- *JourneyMap Integration (Compatibility between JourneyMap & FTBChunks)*
+- Added FTB Chunks: Sable Aerospace (Compatibility between FTBChunks & Create: Aeronautics)
+- *Iris Veil Compat (Compatibility between Iris & Create: Aeronautics)*
+- ~~*JourneyMap Integration (Compatibility between JourneyMap & FTBChunks)*~~ (Disabled by default)
 - Rechiseled: Chipped (Compatibility between Rechiseled & Chipped)
 - Rechiseled: Create (Compatibility between Rechiseled & Create)
+- Vanilla Backport Compat (Compatibility between Vanilla Backport & William Wyther's Expanded Ecosystem)
 - Waystones: Sable (Compatibility between Waystones & Create: Aeronautics)
 ## QoL
+- Aeronautics: Deployer Direction Fix
+- *Aeronautics Camera Sync*
 - *AppleSkin (Shows food saturation & other food info)*
-- CB Multipart (Allows sawing blocks into smaller parts. Also a dependency for all Project Red mods)
+- *Atmospheric Rain Backport*
+- Climbable Ropes for Create Aeronautics
+- *Create Sable Dynamic lights*
+- Create: AeroPortals (Aeronautics contraptions can go through portals)
+- Create: Compact Flap
+- Create: Connected (QoL mechanical blocks for create)
+- Create: Stam1o Tweaks
 - Construction Wand (Very useful for building big things)
+- *Controlling (You can search controls now)*
 - **Creeper no Break Blocks** (Creepers don't destroy blocks, while stilll keeping `mobGriefing` on for other mobs)
+- Don't Break Items
 - *EMI (In-game item & recipe browser)*
   - *EMI Enchanting*
   - *EMI Loot*
   - *EMI Ores*
   - *EMI Professions*
   - *EMI++*
+- FallingTree (Makes chopping down trees instant)
+- Falling Trees Physics (Create: Aeronautics contraptions can make trees fall over)
 - FTBChunks (Allows claiming area as "yours" on a map, up to 10 claimed chunks can be chunkloaded)
 - **Gravestone mod** (When you die, creates a gravestone that holds your items, but you still lose xp. Solves the whole `keepInventory` debate)
 - *Inventory Tweaks: ReFoxed (Inventory sorting, auto-replenish item stacks & a bunch of useful shortcuts)*
 - *Jade (Tells you what you're looking at, if you can mine it, and other information)*
-- *JourneyMap (World map & minimap mod)*
+- ~~*JourneyMap (World map & minimap mod)*~~ (Disabled by default)
+- *Modefite - Item Definition Backport (Makes resource packs for newer game versions compatible with 1.21.1)*
 - *Mouse Tweaks (Adds handy mouse shortcuts for menuing)*
+- *Simple Voice Chat*
+- Smithing Tweaks
+- *Xaero's Minimap*
+- *Xaero's World Map*
 ## Performance
+- *Create: Nowheel*
 - *Lithium (Optimizes game logic)*
 - *Entity Culling (Only render entities actually visible to you. Prevents off-screen mob farms & such from lagging your game)*
 - *FerriteCore (Optimizes memory usage)*
@@ -67,28 +127,42 @@ Mods that are **bold** are significant content mods you probably care about
 - *Architectuary API (Dependency for FTBChunks)*
 - Athena (Dependency for Chipped)
 - Balm (Dependency for Waystones)
+- Better Library (Dependency for Underground Village, Stoneholm)
+- Cable Facades (Dependency for Create Aeronautics: Covers)
+- Cloth Config API (Dependency for Barched)
 - CodeChicken Lib (Dependency for all Project Red mods)
 - Curious API (Dependency for Occultism)
 - CraftTweaker (Dependeny for modifying recipes)
+- Create: Dragons Plus (Dependency for Create: Enchantment Industry)
 - Cristel Lib (Dependency for William Wyther's Expaned Ecosphere)
 - Fusion - Connected Textures (Dependency for Rechiseled)
 - *FTB Library (Dependency for FTBChunks)*
 - *FTB Teams (Dependency for FTBChunks)*
 - *Fzzy Config (Dependency for EMI Loot)*
 - GeckoLib (Dependency for Occultism)
+- GlitchCore (Dependency for Serene Seasons)
 - Kotlin For Forge (Dependency for Farmer's Delight)
 - Lithostitched (Dependency for Tectonic)
 - Modonomicon (Dependency for Occultism)
+- Platform (Dependency for Vanilla Backport)
+- playerAnimator (Dependency for Star Worm Equestrian)
+- *Reese's Sodium Options (Dependency for Sodium Options API)*
 - Resourceful Lib (Dependency for Chipped)
 - Sable (Dependency for Create: Aeronautics)
+- *Searchables (Dependency for Controlling)*
 - Silent Lib (Dependency for Silent Gear)
 - SmartBrainLib (Dependency for Occultism)
+- *Sodium Dynamic Lights (Dependency for Create Sable Dynamic Lights)*
+- *Sodium Options API (Dependency for Create Sable Dynamic Lights)*
 - Sophisticated Core (Dependency for Sophisticated Backpacks & Sophisticated Storage)
 - SuperMartijn642's Config Lib (Dependency for Rechiseled)
 - SuperMartijn642's Core Lib (Dependency for Rechiseled)
+- YUNG's API (Dependency for all YUNG's mods)
 # Changed configs
 - CB Multipart
   - Every non-slab & non-stairs block from Rechiseled has been added as valid sliceable blocks
+- Create
+  - Added a recipe to crush infested stone into experience nuggets
 - FTBChunks
   - Claims do not prevent other players from destroying blocks. The server runs on mutual trust, and they're for marking where your base is
   - If multiple players are in a party, the claim & force-load limit is multiplied by the number of players
@@ -96,6 +170,10 @@ Mods that are **bold** are significant content mods you probably care about
   - Force loaded chunks now always chunkload, even when offline
 - Gravestone
   - The obituary given upon death is removed from your inventory when you re-claim your gravestone
+- Nutritional Balance:
+  - Removed any negative effect from bad nutrition
+  - Good nutrition threshold moved slightly up
+  - Removed the upper bound on good nutrition
 - Project Red Core
   - Everything in the mod not needed for Project Red Integration or Project Red Transmission has been disabled
   - Red Alloy Wires & Insulated Wires have been made easier to craft
@@ -103,6 +181,9 @@ Mods that are **bold** are significant content mods you probably care about
   - Circuit plates have been made slightly less annoying to craft
 - Project Red Transmission
   - Red Alloy Wires (a.k.a. redstone wires) have been made slightly easier to craft
+- Smithing Tweaks:
+  - Upgrade template made significantly more expensive to craft
+  - Upgrade template given a cheaper duplication recipe
 - Waystones:
   - Waystones no longer generate naturally, and have to be crafted
   - Waystones are not free, but cost **less** experience the further apart they are (50 levels at no distance, free at 5000+ blocks). This is to incentivize actual transportation over shorter distances (we have Create: Steam 'n' Rails for trains), while still having a convenient option for really long distances
