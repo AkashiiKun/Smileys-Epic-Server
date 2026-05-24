@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "spawn": {
+    "stickbug_as_item": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,

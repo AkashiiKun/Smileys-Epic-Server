@@ -32712,6 +32712,14 @@
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
+  "crittersandcompanions:sea_bunny_slime_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "crittersandcompanions:silk_cocoon": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "drivebywire:backup_block": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
@@ -55572,6 +55580,18 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "rpg_companions_tiny_dragons:dragon_skull": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "rpg_companions_tiny_dragons:egg_tiny_dragon": {
+    "maxWaterDepth": 52,
+    "implosionChance": 0.56
+  },
+  "rpg_companions_tiny_dragons:skeleton": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
   "sereneseasons:season_sensor": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -56226,6 +56246,658 @@
   },
   "sophisticatedstorage:warped_storage_connector": {
     "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "spawn:algal_reefstone": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:algal_reefstone_slab": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:algal_reefstone_stairs": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:algal_reefstone_wall": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:algal_sand": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:ant_farm": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "spawn:ant_mound": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "spawn:anthill": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:barnacle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:barnacle_cluster": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:big_sea_pickle": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:big_snail_shell": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:blasted_sand": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:blasted_sandstone": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:blasted_sandstone_slab": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:blasted_sandstone_stairs": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:blasted_sandstone_wall": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:broad_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:chiseled_blasted_sandstone": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:clam_case_purple": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:clam_case_red": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:clam_case_white": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:clam_case_yellow": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:crab_boil_block": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:cracked_rotten_planks": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:cut_blasted_sandstone": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:cut_blasted_sandstone_slab": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:dangling_date_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "spawn:date_bunch": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "spawn:date_button": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:date_door": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "spawn:date_fence": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "spawn:date_fence_gate": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "spawn:date_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:date_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "spawn:date_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "spawn:date_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "spawn:date_pressure_plate": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:date_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:date_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:date_slab": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "spawn:date_stairs": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "spawn:date_trapdoor": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "spawn:date_wall_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:date_wall_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_heart_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_heart_coral_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "spawn:dead_heart_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_heart_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_reed_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_reed_coral_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "spawn:dead_reed_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_reed_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_sea_star": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_sea_urchin": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_spike_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_spike_coral_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "spawn:dead_spike_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_spike_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_thorn_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_thorn_coral_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "spawn:dead_thorn_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_thorn_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_wax_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_wax_coral_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "spawn:dead_wax_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dead_wax_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:dried_hamster": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:fall_dragon_reeds": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:fallen_leaves": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:ghostly_mucus_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:hamster_wheel": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:hazy_algae_block": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:heart_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:heart_coral_block": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "spawn:heart_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:heart_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:heart_of_the_sun": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:heliostone": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.78
+  },
+  "spawn:heliostone_slab": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.78
+  },
+  "spawn:heliostone_stairs": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.6533333
+  },
+  "spawn:heliostone_wall": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.78
+  },
+  "spawn:iguana_egg": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:item_in_a_bottle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:magmatic_splatter": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "spawn:marine_iguana_egg": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "spawn:moonstone": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:moray_crevice": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:mucus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:mucus_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:octoduct": {
+    "maxWaterDepth": 46,
+    "implosionChance": 0.615
+  },
+  "spawn:pigment_shifter": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "spawn:potted_date_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:potted_sweet_berry_bush": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:red_algae": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:red_algae_block": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:red_algae_carpet": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:reed_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:reed_coral_block": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "spawn:reed_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:reed_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone_slab": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone_stairs": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone_tile_slab": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone_tile_stairs": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone_tile_wall": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone_tiles": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "spawn:reefstone_wall": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_button": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_door": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_fence": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_fence_gate": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_log": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_log_anthill": {
+    "maxWaterDepth": 19,
+    "implosionChance": 0.84
+  },
+  "spawn:rotten_planks": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_pressure_plate": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_slab": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_stairs": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.8333333
+  },
+  "spawn:rotten_trapdoor": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_wall_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_wall_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:rotten_wood": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "spawn:sea_bunny": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "spawn:sea_star": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "spawn:sea_urchin": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "spawn:short_windswept_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:smooth_blasted_sandstone": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.6333333
+  },
+  "spawn:smooth_blasted_sandstone_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.6333333
+  },
+  "spawn:smooth_blasted_sandstone_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.6333333
+  },
+  "spawn:snail_eggs": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "spawn:snail_shell": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:snail_shell_tile_slab": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:snail_shell_tile_stairs": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:snail_shell_tiles": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:spike_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:spike_coral_block": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "spawn:spike_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:spike_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:spring_dragon_reeds": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:stripped_date_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "spawn:stripped_rotten_log": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "spawn:stripped_rotten_wood": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "spawn:summer_dragon_reeds": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:sunflower": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:sunflower_plant": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:sunstone": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "spawn:tall_windswept_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:thorn_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:thorn_coral_block": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "spawn:thorn_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:thorn_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:trimmed_seagrass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:tropical_wildflowers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:unstable_heliostone": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.78
+  },
+  "spawn:wax_coral": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:wax_coral_block": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "spawn:wax_coral_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:wax_coral_wall_fan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:winter_dragon_reeds": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spawn:zombified_flower": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "swem:acacia_stall_care": {
