@@ -167,3 +167,55 @@ craftingTable.addShaped("changed_upgrade_template_copy", <item:smithing_tweaks:u
     [<tag:item:c:ingots/iron>, <item:smithing_tweaks:upgradetemplate>, <tag:item:c:ingots/iron>],
     [<item:minecraft:cobblestone>, <tag:item:c:ingots/iron>, <item:minecraft:cobblestone>]
 ]);
+
+// Andesite
+craftingTable.addShapeless("added_andesite", <item:minecraft:andesite> * 2, [<item:minecraft:cobblestone>, <item:minecraft:gravel>]);
+
+// Sweet feed
+craftingTable.remove(<item:swem:sweet_feed>);
+craftingTable.addShapeless("changed_sweet_feed", <item:swem:sweet_feed>, [<tag:item:c:eggs>, <tag:item:c:nuggets/iron>, <item:minecraft:sugar>, <item:swem:oat_bushel>]);
+
+// Rose feed
+craftingTable.remove(<item:swem:feed_rose>);
+craftingTable.addShapeless("changed_rose_feed", <item:swem:feed_rose>, [<item:swem:sweet_feed>, <tag:item:minecraft:flowers>]);
+
+// Leaf litter
+furnace.remove(<item:minecraft:leaf_litter>);
+craftingTable.addShapeless("changed_leaf_litter", <item:minecraft:leaf_litter>, [<tag:item:minecraft:leaves>]);
+
+// Netherite plate
+stripTagsAndConvert(<item:swem:plate_netherite>, <item:minecraft:netherite_scrap>);
+
+// Health XP Potion
+craftingTable.addShapeless("changed_healthy_xp_potion", <item:swem:health_xp_potion>, [
+    <item:minecraft:potion>.withJsonComponent(<componenttype:minecraft:potion_contents>, {potion: "minecraft:healing"}),
+    <item:swem:cantazarite_potion>
+]);
+
+// Block'o'water
+craftingTable.remove(<item:swem:block_o_water>);
+craftingTable.addShaped("changed_block_o_water", <item:swem:block_o_water>, [
+    [<item:swem:rivet_gold>, <tag:item:c:glass_panes>, <item:swem:rivet_gold>],
+    [<tag:item:c:glass_panes>, <item:minecraft:water_bucket>, <tag:item:c:glass_panes>],
+    [<item:swem:rivet_gold>, <tag:item:c:glass_panes>, <item:swem:rivet_gold>]
+]);
+
+// Construction wands
+craftingTable.remove(<item:reconstructedwands:infinity_wand>);
+craftingTable.addShapedMirrored("changed_infinity_wand", <constant:minecraft:mirroraxis:horizontal>, <item:reconstructedwands:infinity_wand>, [
+    [<item:minecraft:air>, <item:minecraft:obsidian>, <item:minecraft:obsidian>],
+    [<item:minecraft:air>, <tag:item:c:rods/wooden>, <item:minecraft:obsidian>],
+    [<tag:item:c:rods/wooden>]
+]);
+stripTagsAndConvert(<item:reconstructedwands:stone_wand>, <item:reconstructedwands:infinity_wand>);
+stripTagsAndConvert(<item:reconstructedwands:iron_wand>, <item:reconstructedwands:infinity_wand>);
+stripTagsAndConvert(<item:reconstructedwands:diamond_wand>, <item:reconstructedwands:infinity_wand>);
+stripTagsAndConvert(<item:reconstructedwands:netherite_wand>, <item:reconstructedwands:infinity_wand>);
+
+// Withered amethyst horse armor
+craftingTable.remove(<item:swem:horse_armor_amethyst_withered>);
+craftingTable.addShapedMirrored("changed_withered_amethyst_horse_armor", <constant:minecraft:mirroraxis:diagonal>, <item:swem:horse_armor_amethyst_withered>, [
+    [<item:minecraft:air>, <tag:item:minecraft:coals>],
+    [<item:minecraft:bone>, <tag:item:swem:amethyst_horse_armors>, <item:minecraft:bone>],
+    [<item:minecraft:air>, <tag:item:minecraft:coals>]
+]);

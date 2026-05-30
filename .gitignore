@@ -5,8 +5,10 @@
 /journeymap/
 /local/
 /logs/
+/patched_shaders/
 /saves/
 /screenshots/
+/shaderpacks/
 /xaero/
 /XaeroWaypoints*/
 
@@ -15,6 +17,7 @@
 /icon.png
 /options.txt
 /ponders_watched.json
+/servers.dat*
 /usercache.json
 /usernamecache.json
 
