@@ -17,7 +17,7 @@
   - Made the Infinity Wand significantly easier to craft
 - KubeJS
   - Added smithing templates for all sub-netherite tiers
-  - Sub-netherite smithing templates are made craftable
+  - Sub-netherite smithing templates are given a duplication recipe
   - Sub-netherite smithing templates can be found in various structure loot
 - Star Worm Equestrian Mod
   - SWEM Horses no longer spawn naturally, and need to be obtained by using a Cantazarite potion a vanilla horse
