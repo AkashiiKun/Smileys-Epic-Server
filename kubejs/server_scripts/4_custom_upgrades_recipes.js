@@ -1,4 +1,4 @@
-erverEvents.recipes(event => {
+ServerEvents.recipes(event => {
     // 1. Define our tool and armor types to scan for (including spears)
     const toolTypes = ['sword', 'pickaxe', 'axe', 'shovel', 'hoe', 'spear'];
     const armorTypes = ['helmet', 'chestplate', 'leggings', 'boots'];

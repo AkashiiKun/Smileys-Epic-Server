@@ -138,36 +138,36 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:phantom": true
-			"minecraft:salmon": false
+			"minecraft:cow": true
+			"minecraft:pufferfish": false
 			"minecraft:witch": true
-			"minecraft:donkey": true
-			"swem:swem_horse": true
-			"minecraft:cat": true
+			"minecraft:spider": true
+			"minecraft:cod": false
+			"minecraft:creeper": true
+			"minecraft:frog": true
+			"minecraft:salmon": false
+			"minecraft:pig": true
+			"minecraft:drowned": true
+			"minecraft:skeleton": true
+			"minecraft:iron_golem": true
+			"minecraft:enderman": true
+			"minecraft:horse": true
+			"minecraft:phantom": true
 			"minecraft:armadillo": true
 			"minecraft:chicken": true
-			"minecraft:sheep": true
-			"minecraft:creeper": true
-			"minecraft:pillager": true
-			"minecraft:glow_squid": true
-			"minecraft:cow": true
-			"minecraft:drowned": true
-			"minecraft:squid": true
-			"minecraft:spider": true
-			"minecraft:iron_golem": true
+			"minecraft:villager": true
+			"swem:swem_horse": true
+			"minecraft:bat": true
+			"minecraft:donkey": true
+			"minecraft:cat": true
 			"minecraft:zombie": true
 			"minecraft:wolf": true
-			"minecraft:skeleton": true
-			"minecraft:bat": true
-			"minecraft:cod": false
-			"spawn:hamster": true
-			"minecraft:enderman": true
-			"minecraft:villager": true
-			"minecraft:frog": true
 			"minecraft:zombie_villager": true
-			"minecraft:pig": true
-			"minecraft:pufferfish": false
-			"minecraft:horse": true
+			"minecraft:glow_squid": true
+			"minecraft:pillager": true
+			"minecraft:squid": true
+			"minecraft:sheep": true
+			"spawn:hamster": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
