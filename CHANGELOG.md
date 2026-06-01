@@ -1,3 +1,42 @@
+# v2.0.0
+*This version is still in development & will be updated as changes are made*
+## Mod changes
+- Added AdvancedLootInfo
+- Added Auth Me
+- Added KubeJS
+  - Added LootJS
+  - Added MoreJS
+  - Added ProbeJS
+  - Added Rhino
+- Removed CraftTweaker (Replaced by KubeJS)
+- Removed EMI Loot (Replaced by AdvancedLootInfo)
+## Config & Recipe changes
+- Construction Wands
+  - Removed all non-infinite construction wands
+  - Made the Infinity Wand significantly easier to craft
+- Star Worm Equestrian Mod
+  - SWEM Horses no longer spawn naturally, and need to be obtained by using a Cantazarite potion a vanilla horse
+  - Disabled feeding & drinking needs, as they are way too demanding, and require players to be on constantly otherwise
+  - Significantly increased horse pee & poop interval (they now piss & shit less)
+  - TODO: Remove Star Worm Cobble
+  - Removed Cantazarite Ore, Cantazarite is made craftable instead
+  - Removed Cantazarite Dye, Cantazarite potions are made with Cantazarite instead
+  - Removed Netherite Plates, as they have no use, and are way too unbalanced by appearing in bastion loot & converting into netherite ingots
+  - Changed the Cantazarite Anvil recipe
+  - Added a recipe for Health XP Potion, as there is no other way for a horse to gain Health XP when feeding & drinking is disabled
+  - Made Withered Amethyst Horse Armor significantly easier to craft
+  - Changed the recipes for shavings, as it overlapped with the Leaf Litter recipe
+  - Fixed the Sweet Feed recipe only accepting default chicken eggs
+  - Made Rose Feed slightly easier to craft, recipe now accepts any flower
+  - Made Block'o'Water significantly easier to craft
+  - Removed the Blaze Rod recipe added by the mod
+- Waystones
+  - Made portstones slightly easier to craft
+  - The conversion recipe for the defauly waystone & portstone now uses a stone brick instead of a white dye
+  - All waystone variants now have conversion recipes
+## Other
+- Replaced all CraftTweaker scripts with KubeJS-equivalent (and slightly improved) scripts
+
 # v1.0.1
 ## Mod changes
 - Added Critters and Companions
