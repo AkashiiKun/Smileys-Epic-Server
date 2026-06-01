@@ -10,10 +10,15 @@
   - Added Rhino
 - Removed CraftTweaker (Replaced by KubeJS)
 - Removed EMI Loot (Replaced by AdvancedLootInfo)
+- Removed Smithing Tweaks (Replaced by custom coded template system in KubeJS)
 ## Config & Recipe changes
 - Construction Wands
   - Removed all non-infinite construction wands
   - Made the Infinity Wand significantly easier to craft
+- KubeJS
+  - Added smithing templates for all sub-netherite tiers
+  - Sub-netherite smithing templates are made craftable
+  - Sub-netherite smithing templates can be found in various structure loot
 - Star Worm Equestrian Mod
   - SWEM Horses no longer spawn naturally, and need to be obtained by using a Cantazarite potion a vanilla horse
   - Disabled feeding & drinking needs, as they are way too demanding, and require players to be on constantly otherwise
