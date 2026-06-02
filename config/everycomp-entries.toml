@@ -76,6 +76,9 @@
 		[types.wood_type.expandeddelight]
 			cinnamon = true
 
+		[types.wood_type.createdieselgenerators]
+			chip_wood = true
+
 		[types.leaves_type.would]
 			willow = true
 			baobab = true
