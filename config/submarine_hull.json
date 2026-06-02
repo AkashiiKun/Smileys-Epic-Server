@@ -32888,6 +32888,1026 @@
     "maxWaterDepth": 48,
     "implosionChance": 0.6
   },
+  "create_extra_casing:black_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:black_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:black_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:black_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:black_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:black_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:black_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:black_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:blue_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:blue_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:blue_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:blue_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:blue_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:blue_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:blue_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:brown_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:brown_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:brown_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:brown_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:brown_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:brown_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:brown_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:cyan_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:cyan_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:cyan_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:cyan_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:cyan_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:cyan_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:cyan_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:gray_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:gray_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:gray_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:gray_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:gray_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:gray_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:gray_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:green_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:green_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:green_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:green_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:green_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:green_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:green_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:light_blue_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:light_blue_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:light_blue_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:light_blue_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:light_blue_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:light_blue_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_blue_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:light_gray_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:light_gray_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:light_gray_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:light_gray_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:light_gray_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:light_gray_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:light_gray_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:lime_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:lime_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:lime_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:lime_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:lime_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:lime_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:lime_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:magenta_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:magenta_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:magenta_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:magenta_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:magenta_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:magenta_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:magenta_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:orange_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:orange_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:orange_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:orange_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:orange_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:orange_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:orange_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:pink_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:pink_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:pink_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:pink_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:pink_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:pink_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:pink_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:purple_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:purple_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:purple_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:purple_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:purple_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:purple_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:purple_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:red_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:red_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:red_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:red_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:red_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:red_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:red_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:rgb_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:rgb_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:rgb_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:rgb_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:rgb_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:rgb_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:rgb_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:white_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:white_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:white_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:white_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:white_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:white_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:white_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_brass_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:yellow_brass_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_brass_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:yellow_brass_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_brass_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:yellow_copper_casing": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "create_extra_casing:yellow_copper_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_copper_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:yellow_copper_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_copper_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_encased_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_encased_fluid_pipe": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "create_extra_casing:yellow_encased_large_cogwheel": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "create_extra_casing:yellow_encased_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
   "create_submarine:ballast_tank": {
     "maxWaterDepth": 230,
     "implosionChance": 0.04
@@ -37684,6 +38704,262 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "createdieselgenerators:andesite_girder": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:andesite_girder_encased_shaft": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:asphalt_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:asphalt_slab": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:asphalt_stairs": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:basin_lid": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:biodiesel": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:black_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:black_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:blue_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:blue_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:brown_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:brown_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:bulk_fermenter": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:burner": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:canister": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:chemical_turret": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:chip_wood_beam": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:chip_wood_block": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:chip_wood_slab": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:chip_wood_stairs": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "createdieselgenerators:crude_oil": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:cyan_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:cyan_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:diesel": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:diesel_engine": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:distillation_tank": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:ethanol": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:gasoline": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:gray_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:gray_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:green_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:green_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:huge_diesel_engine": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:large_diesel_engine": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:light_blue_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:light_blue_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:light_gray_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:light_gray_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:lime_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:lime_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:magenta_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:magenta_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:oil_barrel": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:orange_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:orange_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:pink_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:pink_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:plant_oil": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:powered_engine_shaft": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "createdieselgenerators:pumpjack_bearing": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_bearing_b": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_crank": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_head": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "createdieselgenerators:pumpjack_hole": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:purple_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:purple_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:red_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:red_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:sheet_metal_panel": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "createdieselgenerators:white_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:white_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "createdieselgenerators:yellow_cement": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "createdieselgenerators:yellow_concrete_encased_fluid_pipe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "diagonalfences:create_connected/wrapped_copycat_fence": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -37950,6 +39226,18 @@
   },
   "diagonalfences:everycomp/mcf/chipped/white_flower_spruce_hedge": {
     "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "diagonalfences:everycomp/mcf/createdieselgenerators/chip_wood_picket_fence": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "diagonalfences:everycomp/mcf/createdieselgenerators/chip_wood_stockade_fence": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "diagonalfences:everycomp/mcf/createdieselgenerators/chip_wood_wired_fence": {
+    "maxWaterDepth": 13,
     "implosionChance": 0.85
   },
   "diagonalfences:everycomp/mcf/expandeddelight/cinnamon_hedge": {
@@ -42380,6 +43668,10 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "diagonalwindows:everycomp/c/createdieselgenerators/chip_wood_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "diagonalwindows:everycomp/c/expandeddelight/cinnamon_window_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -42537,6 +43829,50 @@
     "implosionChance": 0.85
   },
   "diagonalwindows:everycomp/c/would/willow_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_diamond_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_horizontal_lined_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_large_diamond_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_line_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_ornate_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_snowflake_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/chip_wood_woven_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/circle_chip_wood_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "diagonalwindows:everycomp/ch/createdieselgenerators/square_chip_wood_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -47540,6 +48876,10 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "entombed:tomb": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
   "envelope:mailbox": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76
@@ -47558,6 +48898,14 @@
   },
   "envelope:sealed_package": {
     "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "everycomp:c/createdieselgenerators/chip_wood_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:c/createdieselgenerators/chip_wood_window_pane": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "everycomp:c/expandeddelight/cinnamon_window": {
@@ -48021,6 +49369,482 @@
     "implosionChance": 0.85
   },
   "everycomp:cab/would/willow_shelf": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/airy_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/barred_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/barred_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/basket_woven_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/beach_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/boarded_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/boxed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/brick_bond_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/bricky_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/bundled_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/center_cut_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/checkered_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_barrel": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_bordered_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_crate": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_diamond_bordered_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_diamond_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_horizontal_lined_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_horizontal_lined_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_large_diamond_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_large_diamond_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_line_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_line_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_ornate_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_ornate_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_planks_mosaic": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_planks_panel": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_planks_shavings": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_snowflake_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_snowflake_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_wall_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_woven_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/chip_wood_woven_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/circle_chip_wood_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/circle_chip_wood_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/classic_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/classic_windowed_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/cobweb_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/cornered_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/crated_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/cross_laced_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/crossed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/damaged_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/detailed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/diagonal_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/diamond_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/distorted_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/double_herringbone_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/dual_paneled_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/edge_cut_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/enclosed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/fancy_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/fine_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/fine_vertical_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/firewood_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/flowering_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/fortified_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/framed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/gated_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/glass_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/golden_barred_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/heavy_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/heavy_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/herringbone_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/hewn_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/iron_barred_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/laced_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/leafy_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/meshed_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/mixed_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/nailed_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/nailed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/natural_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/overgrown_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/overgrown_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/overgrown_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/paneled_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/paper_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/pegged_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/planked_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/pointless_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/polished_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/pressed_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/railed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/reinforced_chip_wood_crate": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/reinforced_chip_wood_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/screen_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/secret_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/shack_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/shifted_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/slanted_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/sliding_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/slotted_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/smooth_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/solid_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/square_chip_wood_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/square_chip_wood_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/stacked_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/supported_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/suspicious_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/thin_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/tile_windowed_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/tiled_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/tiled_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/twisted_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/versailles_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/vertical_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/vertically_railed_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/vined_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/warted_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/whirlwind_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/wickered_chip_wood_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/windowed_chip_wood_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/windowed_chip_wood_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/createdieselgenerators/woven_chip_wood_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -72596,6 +74420,14 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
+  "everycomp:mcb/createdieselgenerators/chip_wood_rope_bridge_stair": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcb/createdieselgenerators/rope_chip_wood_bridge": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
   "everycomp:mcb/expandeddelight/cinnamon_bridge_pier": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -73515,6 +75347,94 @@
   "everycomp:mcb/would/willow_rope_bridge_stair": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_bamboo_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_bark_glass_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_barn_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_barn_glass_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_beach_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_classic_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_cottage_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_four_panel_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_glass_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_japanese2_door": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_japanese_door": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_modern_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_mystic_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_nether_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_paper_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_stable_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_stable_head_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_swamp_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_tropical_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_waffle_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_western_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "everycomp:mcd/createdieselgenerators/chip_wood_whispering_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
   },
   "everycomp:mcd/expandeddelight/cinnamon_bamboo_door": {
     "maxWaterDepth": 21,
@@ -77300,6 +79220,26 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:mcf/createdieselgenerators/chip_wood_highley_gate": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcf/createdieselgenerators/chip_wood_picket_fence": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcf/createdieselgenerators/chip_wood_pyramid_gate": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcf/createdieselgenerators/chip_wood_stockade_fence": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcf/createdieselgenerators/chip_wood_wired_fence": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
   "everycomp:mcf/expandeddelight/cinnamon_hedge": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -78463,6 +80403,30 @@
   "everycomp:mcf/would/willow_wired_fence": {
     "maxWaterDepth": 13,
     "implosionChance": 0.85
+  },
+  "everycomp:mcfur/createdieselgenerators/chip_wood_coffee_table": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.769
+  },
+  "everycomp:mcfur/createdieselgenerators/chip_wood_covered_desk": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.769
+  },
+  "everycomp:mcfur/createdieselgenerators/chip_wood_desk": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.769
+  },
+  "everycomp:mcfur/createdieselgenerators/chip_wood_glass_table": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.769
+  },
+  "everycomp:mcfur/createdieselgenerators/chip_wood_modern_desk": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.769
+  },
+  "everycomp:mcfur/createdieselgenerators/chip_wood_table": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.769
   },
   "everycomp:mcfur/expandeddelight/cinnamon_bookshelf": {
     "maxWaterDepth": 27,
@@ -87712,6 +89676,10 @@
     "maxWaterDepth": 27,
     "implosionChance": 0.769
   },
+  "everycomp:mcl/createdieselgenerators/chip_wood_ceiling_fan_light": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
   "everycomp:mcl/expandeddelight/cinnamon_ceiling_fan_light": {
     "maxWaterDepth": 13,
     "implosionChance": 0.85
@@ -88172,6 +90140,10 @@
     "maxWaterDepth": 13,
     "implosionChance": 0.85
   },
+  "everycomp:mcp/createdieselgenerators/chip_wood_planks_path": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
   "everycomp:mcp/expandeddelight/cinnamon_planks_path": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -88330,6 +90302,62 @@
   },
   "everycomp:mcp/would/willow_planks_path": {
     "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_attic_roof": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_lower_roof": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_planks_attic_roof": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_planks_lower_roof": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_planks_roof": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_planks_steep_roof": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_planks_top_roof": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_planks_upper_lower_roof": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_planks_upper_steep_roof": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_roof": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_steep_roof": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_top_roof": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_upper_lower_roof": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcr/createdieselgenerators/chip_wood_upper_steep_roof": {
+    "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
   "everycomp:mcr/expandeddelight/cinnamon_attic_roof": {
@@ -90570,6 +92598,70 @@
   },
   "everycomp:mcr/would/willow_upper_steep_roof": {
     "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_bamboo_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_bark_trapdoor": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_barn_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_barred_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_barrel_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_beach_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_blossom_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_classic_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_cottage_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_four_panel_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_glass_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_mystic_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_paper_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_swamp_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_tropical_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mct/createdieselgenerators/chip_wood_whispering_trapdoor": {
+    "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
   "everycomp:mct/expandeddelight/cinnamon_bamboo_trapdoor": {
@@ -93278,6 +95370,54 @@
   },
   "everycomp:mct/would/willow_whispering_trapdoor": {
     "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_four_window": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_log_parapet": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_louvered_shutter": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_pane_window": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_plank_four_window": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_plank_pane_window": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_plank_parapet": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_plank_window": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_plank_window2": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_shutter": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_window": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:mcw/createdieselgenerators/chip_wood_window2": {
+    "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
   "everycomp:mcw/expandeddelight/cinnamon_blinds": {
@@ -97122,6 +99262,10 @@
   },
   "everycomp:mws/would/willow_terrace_stairs": {
     "maxWaterDepth": 15,
+    "implosionChance": 0.85
+  },
+  "everycomp:ru/createdieselgenerators/chip_wood_branch": {
+    "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
   "everycomp:ru/expandeddelight/cinnamon_branch": {
@@ -112440,6 +114584,406 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "miku-plushie:aiko_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:akita_neru_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:akita_neru_plush_tails": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:gumi_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:gumi_plush_v3": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:gumi_plush_v4": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:gumi_plush_v6": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:kaito_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:kaito_plush_v3": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:kaito_plush_v4": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:konoha_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:leek_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:len_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:luka_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:meiko_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:meiko_plush_v3": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:meiko_plush_v4": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_bik": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_am": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_ba": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_ba_drum": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_beach": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_bik_orange": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_braid": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_brown_bro": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_electrician": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_fut_cam": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_fut_crvg": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_fut_fla": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_go": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_mg": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_pa": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_rs": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_school_pe": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_br_sp": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_deep_sea_girl": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_devil": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_digital_stars_2025": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_dont_believe_in_t": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_fortnite_neko": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_frankenstein": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_frog": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_ghost": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_ghostface": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_hachune": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_helloplanet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_hollow_knight": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_hornet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_infinity": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_jason": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_link": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_lucario_z": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_mesmerizer": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_michael_myers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_mochimochi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_monitoring": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_mummy": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_mushroom": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_patata": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_patati": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_personadancing": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_pppp": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_psycho_mode": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_pumpkin": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_reindeer": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_renaissance": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_rolling_girl": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_rotten_girl": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_santa": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_santa_elf": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_senbonzakura": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_sonic": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_sonic_crossworlds": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_static": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_uraotomelovers": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_v4": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_vampire": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_werewoman": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_witch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_world_is_mine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_xmas_tree": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:miku_plush_zatsune": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:rin_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_birdbrain": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_dont_believe_in_t": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_liar_dancer": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_lobster": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_mesmerizer": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_pppp": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_regret_rock": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_shadow": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_shrimp": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_some_more_of_that_song": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_spoken_for": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_synthv": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:teto_plush_whatchacallitsname": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "miku-plushie:wild_leek_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "minecraft:acacia_button": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
@@ -117889,6 +120433,514 @@
     "implosionChance": 0.6
   },
   "offroad:wheel_mount": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "oilcanister:large_oil_canister": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "oilcanister:medium_oil_canister": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "oilcanister:small_oil_canister": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "pridecraft:abrosexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:abrosexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:abrosexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:abrosexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:agender_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:agender_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:agender_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:agender_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aroace_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aroace_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aroace_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aroace_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aromantic_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aromantic_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aromantic_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:aromantic_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:asexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:asexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:asexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:asexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bigender_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bigender_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bigender_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bigender_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bisexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bisexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bisexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:bisexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:corrupted_flag_block": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.505
+  },
+  "pridecraft:deepslate_unknown_ore": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.505
+  },
+  "pridecraft:demiboy_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demiboy_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demiboy_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demiboy_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demigirl_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demigirl_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demigirl_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demigirl_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:deminonbinary_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:deminonbinary_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:deminonbinary_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:deminonbinary_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demiromantic_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demiromantic_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demiromantic_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demiromantic_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demisexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demisexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demisexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:demisexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:gay_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:gay_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:gay_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:gay_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderfluid_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderfluid_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderfluid_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderfluid_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderflux_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderflux_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderflux_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderflux_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderqueer_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderqueer_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderqueer_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:genderqueer_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:grayromantic_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:grayromantic_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:grayromantic_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:grayromantic_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:graysexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:graysexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:graysexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:graysexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:intersex_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:intersex_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:intersex_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:intersex_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:lesbian_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:lesbian_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:lesbian_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:lesbian_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:nonbinary_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:nonbinary_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:nonbinary_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:nonbinary_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:omnisexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:omnisexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:omnisexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:omnisexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:pansexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:pansexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:pansexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:pansexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:polysexual_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:polysexual_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:polysexual_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:polysexual_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:progress_pride_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:progress_pride_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:progress_pride_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:progress_pride_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:queer_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:queer_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:queer_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:queer_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:rainbow_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:rainbow_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:rainbow_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:rainbow_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transfeminine_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transfeminine_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transfeminine_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transfeminine_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transgender_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transgender_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transgender_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transgender_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transmasculine_flag_block": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transmasculine_flag_carpet": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transmasculine_mini_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:transmasculine_wall_flag": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "pridecraft:unknown_material_block": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "pridecraft:unknown_ore": {
     "maxWaterDepth": 39,
     "implosionChance": 0.67
   },

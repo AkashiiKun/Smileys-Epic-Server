@@ -120,6 +120,9 @@
   "gravestone": {
     "grave": true
   },
+  "entombed": {
+    "tomb_owner": true
+  },
   "cookingforblockheads": {
     "fridge": true,
     "oven": true,

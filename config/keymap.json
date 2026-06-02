@@ -1,7 +1,7 @@
 {
-  "firstOpenDone": false,
+  "firstOpenDone": true,
   "autoSelectLayout": false,
-  "customLayout": "en_us",
+  "customLayout": "es_es",
   "replaceKeybindScreen": true,
   "malilibSupport": true,
   "debug": false,
