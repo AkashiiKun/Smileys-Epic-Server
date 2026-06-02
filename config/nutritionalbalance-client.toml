@@ -10,7 +10,7 @@
 		#X Offset of nutrition button relative to the upper left corner of the player inventory screen. (default:131)
 		# Default: 131
 		# Range: 0 ~ 512
-		nutrient_button_x = 131
+		nutrient_button_x = 101
 		#Y Offset of nutrition button relative to the upper left corner of the player inventory screen. (default:61)
 		# Default: 61
 		# Range: 0 ~ 512
