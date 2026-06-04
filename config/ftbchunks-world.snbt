@@ -12,7 +12,7 @@
 	
 	# Disables all land protection. Useful for private servers where everyone is trusted and claims are only used for force-loading
 	# Default: false
-	disable_protection: true
+	disable_protection: false
 	
 	# Minimap for clients connecting to this server will be disabled
 	# Default: false
@@ -39,12 +39,12 @@
 	
 	# If true, pistons are prevented from pushing/pulling blocks across claims owned by different teams (unless the target claim has public 'edit block' permissions defined). If 'disable_protection' is set to true, this setting is ignored.
 	# Default: true
-	piston_protection: false
+	piston_protection: true
 	
 	# When true, standard FTB Chunk explosion protection is applied in protected chunks when the source of the explosion cannot be determined
 	# (Ghast fireballs are a common case - vanilla supplies a null entity source)
 	# Default: true
-	protect_unknown_explosions: false
+	protect_unknown_explosions: true
 	
 	# Should PvP combat be allowed in claimed chunks? Default is ALWAYS; NEVER prevents it in all claimed chunks; PER_TEAM allows teams to decide if PvP is allowed in their claims
 	# Default: "always"
@@ -89,7 +89,7 @@
 		# AVERAGE: use the average of all members' limits.
 		# Default: "largest"
 		# Valid values: "largest", "owner", "sum", "average"
-		party_limit_mode: "sum"
+		party_limit_mode: "largest"
 	}
 	dev: {
 		# Enable dev commands
@@ -115,7 +115,7 @@
 		# DEFAULT: allow force-loading IF the team has at least one player with the 'ftbchunks.chunk_load_offline' FTB Ranks permission.
 		# Default: "default"
 		# Valid values: "default", "always", "never"
-		force_load_mode: "always"
+		force_load_mode: "default"
 		
 		# Hard limit for the number of chunks a team can force-load, regardless of how many members. Default of 0 means no hard limit.
 		# Default: 0
@@ -126,7 +126,7 @@
 		# You can override this with FTB Ranks 'ftbchunks.max_force_loaded' permission
 		# Default: 25
 		# Range: -∞ ~ +∞
-		max_force_loaded_chunks: 10
+		max_force_loaded_chunks: 25
 		
 		# Maximum time (in real-world days) where if no player in a team logs in, any forceloaded chunks owned by the team are no longer forceloaded.
 		# Prevents chunks being forceloaded indefinitely by teams who no longer play.

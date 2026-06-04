@@ -6,8 +6,8 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -52,8 +52,15 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "spawn": {
-    "stickbug_as_item": true
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
   },
   "jade_access": {
     "held_item": true,
@@ -61,6 +68,14 @@
     "block": true,
     "entity": true,
     "entity_variant": true
+  },
+  "jademoddedentities": {
+    "swem.levels": true,
+    "swem.hide_default": true,
+    "villager": true,
+    "swem.coat": true,
+    "swem.gender": true,
+    "swem": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -73,15 +88,40 @@
     "block_properties": false,
     "mod_name": true
   },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
+  },
+  "iceandfire": {
+    "dragon_egg_entity": true,
+    "multipart": true,
+    "dragon": true,
+    "dragon_egg_block": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "waystones": {
     "waystone": true
   },
   "gravestone": {
     "grave": true
   },
-  "occultism": {
-    "foliot": true,
-    "sacrificial": true
+  "entombed": {
+    "tomb_owner": true
   },
   "cookingforblockheads": {
     "fridge": true,
@@ -90,8 +130,5 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
-  },
-  "balm": {
-    "jade": true
   }
 }

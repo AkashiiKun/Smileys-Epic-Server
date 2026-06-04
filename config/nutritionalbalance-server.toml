@@ -6,7 +6,7 @@
 		#Malnourishment value, below which bad effects can occur. (default:1.0)
 		# Default: 1.0
 		# Range: 0.0 ~ 1.7976931348623157E308
-		nutrient_level_malnourished = 0.0
+		nutrient_level_malnourished = 1.0
 		#Initial nutrient level for new player. (default:50.0
 		# Default: 50.0
 		# Range: 0.0 ~ 1.7976931348623157E308
@@ -14,15 +14,15 @@
 		#Boundary between low and target, above which good affects can occur. (default:100.0
 		# Default: 100.0
 		# Range: 0.0 ~ 1.7976931348623157E308
-		nutrient_level_low_target = 120.0
+		nutrient_level_low_target = 100.0
 		#Boundary between target and high, below which good affects can occur. (default:120.0)
 		# Default: 120.0
 		# Range: 0.0 ~ 1.7976931348623157E308
-		nutrient_level_target_high = 180.0
+		nutrient_level_target_high = 120.0
 		#Engorgement value, above which bad affects can occur.(default:170.0)
 		# Default: 170.0
 		# Range: 0.0 ~ 1.7976931348623157E308
-		nutrient_level_engorged = 180.0
+		nutrient_level_engorged = 170.0
 		#Maximum nutrient level. nutrients will cap out at this value no matter how much you eat. (default:180.0)
 		# Default: 180.0
 		# Range: 0.0 ~ 1.7976931348623157E308
@@ -87,7 +87,7 @@
 			#Max Health - number of health points (1/2 hearts) to add or subtract. (default: -4.0)
 			# Default: -4.0
 			# Range: -40.0 ~ 40.0
-			malnourished_max_health = 0.0
+			malnourished_max_health = -4.0
 			#Knockback Resistance - knockback resistance to add. 1.0 is 100%. (default: 0.0)
 			# Default: 0.0
 			# Range: 0.0 ~ 1.0
@@ -95,11 +95,11 @@
 			#Movement Speed - increase or reduce player movement speed. Speed I is 0.2. Slowness I is -0.15. (default: -0.15)
 			# Default: -0.15
 			# Range: -0.7 ~ 2.0
-			malnourished_movement_speed = 0.0
+			malnourished_movement_speed = -0.15
 			#Attack Damage - increase or reduce attack damage caused by player. Strength I is 0.2. Weakness I is -0.15. (default: -0.15)
 			# Default: -0.15
 			# Range: -2.0 ~ 4.0
-			malnourished_attack_damage = 0.0
+			malnourished_attack_damage = -0.15
 			#Attack Knockback - increase the amount of knockback caused by the player. (default: 0.0)
 			# Default: 0.0
 			# Range: 0.0 ~ 4.0
@@ -122,7 +122,7 @@
 			#Movement Speed - increase or reduce player movement speed. Speed I is 0.2. Slowness I is -0.15. (default: -0.15)
 			# Default: -0.15
 			# Range: -0.7 ~ 2.0
-			engorged_movement_speed = 0.0
+			engorged_movement_speed = -0.15
 			#Attack Damage - increase or reduce attack damage caused by player. Strength I is 0.2. Weakness I is -0.15. (default: 0.0)
 			# Default: 0.0
 			# Range: -2.0 ~ 4.0
@@ -134,7 +134,7 @@
 			#Mining Speed - increase or decrease mining speed of the player. Haste I is 0.1. Mining Fatique I is -0.1. (default: -0.1)
 			# Default: -0.1
 			# Range: -4.0 ~ 4.0
-			engorged_mining_speed = 0.0
+			engorged_mining_speed = -0.1
 
 	#Nutrient for modded foods: Add foods or tags here to add nutrients to the foods.
 	#This is usually only needed for raw ingredients. Crafted and cooked foods will get nutrients from recipe ingredients.

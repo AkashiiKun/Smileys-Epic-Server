@@ -11,3 +11,8 @@
 	#Should the Registration Card lose durability on use?
 	#If false, the card has infinite uses.
 	useCardDurability = true
+	#Maximum number of marketplace offers a single player can have.
+	#Set to a high value to effectively disable the limit.
+	# Default: 100
+	# Range: 1 ~ 10000
+	maxOffersPerPlayer = 100
