@@ -4,6 +4,7 @@
 - Added AdvancedLootInfo
 - Added Auth Me
 - Added KubeJS
+  - Added KubeJS Create
   - Added LootJS
   - Added MoreJS
   - Added ProbeJS
@@ -15,7 +16,12 @@
 - Construction Wands
   - Removed all non-infinite construction wands
   - Made the Infinity Wand significantly easier to craft
+- Create
+  - Changed the Blackstone recipe to use black dyeing instead of haunting
+  - Haunting Cobblestone now yields Infested Cobblestone instead of Blackstone
+  - All infested blocks can now be crushed for a 50% Nugget of Experience yield, alongside their regular non-infested drops (non-infested variants that aren't normally crushable have no extra drops for their infested variant)
 - KubeJS
+  - Removed items are now properly removed from all loot, and should be fully unobtainable
   - Added smithing templates for all sub-netherite tiers
   - Sub-netherite smithing templates are given a duplication recipe
   - Sub-netherite smithing templates can be found in various structure loot
@@ -23,7 +29,7 @@
   - SWEM Horses no longer spawn naturally, and need to be obtained by using a Cantazarite potion a vanilla horse
   - Disabled feeding & drinking needs, as they are way too demanding, and require players to be on constantly otherwise
   - Significantly increased horse pee & poop interval (they now piss & shit less)
-  - TODO: Remove Star Worm Cobble
+  - Removed Star Worm Cobble, Star Worms now drop from destroying grass at night with a hoe instead
   - Removed Cantazarite Ore, Cantazarite is made craftable instead
   - Removed Cantazarite Dye, Cantazarite potions are made with Cantazarite instead
   - Removed Netherite Plates, as they have no use, and are way too unbalanced by appearing in bastion loot & converting into netherite ingots

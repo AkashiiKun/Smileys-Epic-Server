@@ -1,4 +1,20 @@
 ServerEvents.recipes(event => {
+    const create = event.recipes.create;
+
+    // REMOVED
+    // Cantazarite -> Blaze rod
+    event.remove({type: "minecraft:crafting_shaped", output: "minecraft:blaze_rod", input: "swem:cantazarite"});
+    
+    // Cantazarite Dye -> Orange Dye
+    event.remove({type: "minecraft:crafting_shapeless", output: "minecraft:orange_dye", input: "swem:cantazarite_dye"});
+
+    // Netherite plate -> Netherite Ingot
+    event.remove({type: "minecraft:crafting_shapeless", output: "minecraft:netherite_ingot", input: "swem:plate_netherite"});
+
+    // Star Worm Cobble -> Star Worm
+    event.remove({type: "minecraft:crafting_shaped", output: "swem:star_worm", input: "#swem:star_worm_cobble"});
+
+    // ADDED / CHANGED
     // Red alloy wires
     event.remove({type: "minecraft:crafting_shaped", output: "projectred_transmission:red_alloy_wire"});
     event.shaped("9x projectred_transmission:red_alloy_wire", [
@@ -144,12 +160,6 @@ ServerEvents.recipes(event => {
         "AAA"
     ], {A: "#c:ingots/iron", B: "#c:storage_blocks/redstone"});
 
-    // Upgrade template
-    // This one is getting reworked anyways so I can't be bothered adding it
-
-    // Andesite
-    // New worldgen mod allows proper andesite generation, recipie therefore no longer needed
-
     // Shavings
     const shavingsReplacement = [
         ["oak", "medium"],
@@ -176,9 +186,6 @@ ServerEvents.recipes(event => {
     // Rose feed
     event.remove({type: "minecraft:crafting_shapeless", output: "swem:feed_rose"});
     event.shapeless("swem:feed_rose", ["swem:sweet_feed", "#minecraft:flowers"]);
-
-    // Blaze rod
-    event.remove({type: "minecraft:crafting_shaped", output: "minecraft:blaze_rod"});
 
     // Cantazarite anvil
     event.remove({output: "swem:cantazarite_block", input: "swem:cantazarite_anvil"});
@@ -220,6 +227,18 @@ ServerEvents.recipes(event => {
         " BA",
         "B  "
     ], {A: "#c:obsidians/crying", B: "#c:rods/wooden"});
+
+    // Blackstone
+    event.remove({type: "create:haunting", output: "minecraft:blackstone"});
+    event.shapeless("minecraft:blackstone", ["#c:cobblestones", "#c:dyes/black"]);
+
+    // Infested Cobblestone
+    create.haunting(["minecraft:infested_cobblestone"], ["minecraft:cobblestone"]);
+
+    // Nugget of Experience
+    for (const stone of ["stone", "stone_bricks", "mossy_stone_bricks", "cracked_stone_bricks", "chiseled_stone_bricks", "deepslate"]) {
+        create.crushing([CreateItem.of("create:experience_nugget")], [`minecraft:infested_${stone}`]);
+    }
 });
 
 MoreJS.registerPotionBrewing(event => {

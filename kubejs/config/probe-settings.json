@@ -5,6 +5,7 @@
         "kubejs",
         "neoforge",
         "lootjs",
-        "morejs"
+        "morejs",
+        "kubejs-create"
     ]
 }

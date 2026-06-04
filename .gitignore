@@ -2,6 +2,9 @@
 /data/
 /debug/
 /downloads/
+/dynamic-data-pack-cache/
+/dynamic-resource-pack-cache/
+/ESM/
 /journeymap/
 /local/
 /logs/
@@ -10,11 +13,14 @@
 /scripts/
 /screenshots/
 /shaderpacks/
+/spark-modernfix/tmp
+/twemoji-server-cache/
 /xaero/
 /XaeroWaypoints*/
 
 /command_history.txt
 /emi.json
+/fabricloader.log
 /icon.png
 /options.txt
 /ponders_watched.json
@@ -24,5 +30,6 @@
 
 # This file timestamps itself it loads, so it's ignored to prevent a bunch of useless changes
 /config/iris.properties
+/config/swpm-limits.properties
 .*/
 *.bak

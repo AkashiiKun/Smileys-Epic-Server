@@ -1,4 +1,18 @@
 LootJS.lootTables(event => {
+    const removeLoot = [
+        "swem:plate_netherite",
+        "swem:cantazarite_dye",
+        "swem:star_worm_cobble"
+    ];
+    for (const table of event.modifyLootTables(global.regexAny).tables) {
+        table.pools.forEach(pool => {
+            for (const loot of removeLoot) {
+                pool.entries.removeItem(loot);
+            }
+        });
+    }
+
+    // SMITHING TEMPLATES
     // 1. Safe global ID collection list to completely bypass Java filter crashes
     let allTableIds = event.getLootTableIds();
 

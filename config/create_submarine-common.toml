@@ -25,16 +25,16 @@
 	# Default: 1.0
 	# Range: 0.1 ~ 10.0
 	ballastForceMultiplier = 1.0
-	#Multiplier on the ballast vent fill/drain transfer rate.
-	#Lower = slower filling/emptying, higher = faster.
-	# Default: 2.0
-	# Range: 0.1 ~ 20.0
-	ballastTransferRateMultiplier = 2.0
 	#Multiplier on water thruster thrust output.
 	#Lower = weaker propulsion, higher = stronger.
 	# Default: 6.0
 	# Range: 0.1 ~ 50.0
 	waterThrusterPowerMultiplier = 6.0
+	#Multiplier on the ballast vent fill/drain transfer rate.
+	#Lower = slower filling/emptying, higher = faster.
+	# Default: 2.0
+	# Range: 0.1 ~ 20.0
+	ballastTransferRateMultiplier = 2.0
 
 [experimental]
 	#Enable the experimental Permanent Water Culling test for submarines and boats

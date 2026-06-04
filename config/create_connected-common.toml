@@ -21,7 +21,6 @@ migrateCopycatsOnInitialize = true
 	inventory_access_port = true
 	centrifugal_clutch = true
 	copycat_slab = true
-	brass_chute = true
 	overstress_clutch = true
 	brake = true
 	copycat_block = true
@@ -36,7 +35,6 @@ migrateCopycatsOnInitialize = true
 	encased_chain_cogwheel = true
 	sequenced_pulse_generator = true
 	freewheel_clutch = true
-	dashboard = true
 	shear_pin = true
 	inverted_gearshift = true
 	linked_transmitter = true
@@ -44,6 +42,8 @@ migrateCopycatsOnInitialize = true
 	copycat_board = true
 	inventory_bridge = true
 	copycat_fence = true
+	brass_chute = true
+	dashboard = true
 
 #.
 #Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients

@@ -59,7 +59,7 @@ global.removedItems = Object.assign(
 
     // SWEM ores
     "swem:cantazarite_ore": "6x swem:cantazarite",
-    // TODO: Remove Star Worm Cobble
+    "swem:star_worm_cobble": "4x swem:star_worm",
 
     // Non-infinite construction wands
     "reconstructedwands:stone_wand": "reconstructedwands:infinity_wand",

@@ -25,6 +25,19 @@ ServerEvents.recipes(recipe => {
     }
 });
 
+LootJS.lootTables(event => {
+    for (const [from, to] of Object.entries(global.removedItemsWithReplacement)) {
+        for (const table of event.modifyLootTables(global.regexAny).tables) {
+            table.pools.forEach(pool => pool.entries.replaceItem(from, to.split("x ")[1] ?? to, true));
+        }
+    }
+    for (const item of global.removedItemsNoReplacement) {
+        for (const table of event.modifyLootTables(global.regexAny).tables) {
+            table.pools.forEach(pool => pool.entries.removeItem(item));
+        }
+    }
+});
+
 LootJS.modifiers(event => {
     for (const [from, to] of Object.entries(global.removedItemsWithReplacement)) {
         event.addBlockModifier(from).removeLoot(ItemFilter.ANY).addLoot(to);
