@@ -11,7 +11,7 @@
 	#If true, disallows all blocks from connecting to backpacks
 	allBlockConnectionsDisallowed = false
 	#Maximum number of upgrades of type per backpack in format of "UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
-	maxUpgradesPerStorage = ["stack_upgrades|3", "jukebox_upgrades|1", "furnace_upgrades|1"]
+	maxUpgradesPerStorage = ["stack_upgrades|3", "furnace_upgrades|1", "jukebox_upgrades|1"]
 	#Turns on/off item fluid handler of backpack in its item form. There are some dupe bugs caused by default fluid handling implementation that manifest when backpack is drained / filled in its item form in another mod's tank and the only way to prevent them is disallowing drain/fill in item form altogether
 	itemFluidHandlerEnabled = true
 	#Determines whether player can right click on backpack that another player is wearing to open it. If off will turn off that capability for everyone and remove related settings from backpack.
@@ -507,6 +507,33 @@
 		# Default: 8
 		# Range: 1 ~ 20
 		filterSlots = 8
+
+	#Mob Catcher Upgrade Settings
+	[server.mobCatcherUpgrade]
+		#Maximum slot cost a mob may have to be captured by the basic mob catcher. This is a hard limit, not a clamp.
+		# Default: 18
+		# Range: 1 ~ 120
+		basicMaxSlotCost = 18
+		#Maximum slot cost a mob may have to be captured by the advanced mob catcher. This is a hard limit, not a clamp.
+		# Default: 72
+		# Range: 1 ~ 120
+		advancedMaxSlotCost = 72
+		#Multiplier applied to animal mob slot cost.
+		# Default: 1.0
+		# Range: 0.1 ~ 10.0
+		animalMultiplier = 1.0
+		#Multiplier applied to hostile mob slot cost.
+		# Default: 2.0
+		# Range: 0.1 ~ 10.0
+		hostileMultiplier = 2.0
+		#When true, mobs that expose inventories or container menus are not capturable.
+		disallowInventoryEntities = false
+		#Entity types that cannot be captured.
+		entityBlockList = []
+		#Entity types treated as hostile by mob catcher slot cost and tier rules.
+		hostileOverrides = []
+		#Entity types treated as passive by mob catcher slot cost and tier rules.
+		passiveOverrides = []
 
 	#Settings for Spawning Entities with Backpack
 	[server.entityBackpackAdditions]

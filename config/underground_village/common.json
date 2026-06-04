@@ -1,6 +1,6 @@
 {
   "structureSize": {
-    "value": 15,
+    "value": 10,
     "category": "Generation",
     "description": "Default size of underground village structures."
   },
@@ -10,7 +10,7 @@
     "description": "Maximum distance structure pieces can generate from the village center."
   },
   "waterStructureSize": {
-    "value": 15,
+    "value": 10,
     "category": "Water Structures",
     "description": "Default size of water-based underground village structures."
   },

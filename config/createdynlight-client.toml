@@ -1,14 +1,14 @@
 #.
-#Enable client-side SodiumDynamicLights lighting for light-emitting blocks mounted on Create contraptions.
-enableSodiumDynamicLight = true
+#Enable client-side LambDynamicLights lighting for light-emitting blocks mounted on Create contraptions.
+enableLampDynamicLight = true
 #.
 #Multiplier applied to each contraption or Sable light source luminance.
 # Default: 1.0
 # Range: 0.0 ~ 2.0
 luminanceMultiplier = 1.0
 #.
-#Kept for config compatibility. SodiumDynamicLights controls its own renderer update loop, so this only affects this addon's local source update interval.
-ignoreSodiumModeSetting = true
+#Kept for config compatibility. LambDynamicLights controls its own renderer update loop, so this only affects this addon's local source update interval.
+ignoreLampModeSetting = true
 #.
 #Minimum time in milliseconds between position/luminance syncs for each contraption or Sable light. 0 means every renderer update.
 # Default: 0

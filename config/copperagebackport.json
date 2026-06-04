@@ -1,6 +1,6 @@
 {
   "golemBuildSpawning": true,
-  "golemPressesButtons": true,
+  "golemPressesButtons": false,
   "buttonPressChancePercent": 5,
   "golemTransportStackSize": 16,
   "weatheringTickFrom": 504000,
