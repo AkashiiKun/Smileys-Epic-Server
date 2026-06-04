@@ -1,0 +1,18 @@
+{
+  "locked": false,
+  "name": "Default",
+  "overrides": {},
+  "packIds": [
+    "mod/boatiview",
+    "mod/minecraft_cursor:resourcepacks/cursors_extended",
+    "black_icons",
+    "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+    "chiselsandbits-core",
+    "moonlight:merged_pack",
+    "mod_resources",
+    "lambdabettergrass:default",
+    "fabric",
+    "mod/punchy:resourcepacks/punchy",
+    "vanilla"
+  ]
+}

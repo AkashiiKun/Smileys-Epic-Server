@@ -1,0 +1,26 @@
+{
+  "locked": false,
+  "name": "Creatified",
+  "overrides": {},
+  "packIds": [
+    "file/VanillaLootr-1.20.1.zip",
+    "file/create-wider-windows-1.0.0.zip",
+    "file/Pixion\u0027s Canvas Conveyor v1.0-1.20.1.zip",
+    "file/CreateSophStorage.zip",
+    "file/CreateSophBackpacks.zip",
+    "file/Create Touch-Ups v1.0.zip",
+    "file/Create DG Sound Replacement  - 1.1.zip",
+    "file/Consistent Create Ropes 0.1.zip",
+    "mod/boatiview",
+    "mod/minecraft_cursor:resourcepacks/cursors_extended",
+    "black_icons",
+    "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+    "chiselsandbits-core",
+    "moonlight:merged_pack",
+    "mod_resources",
+    "lambdabettergrass:default",
+    "fabric",
+    "mod/punchy:resourcepacks/punchy",
+    "vanilla"
+  ]
+}

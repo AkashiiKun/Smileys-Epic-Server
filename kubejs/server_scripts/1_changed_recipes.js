@@ -239,6 +239,13 @@ ServerEvents.recipes(event => {
     for (const stone of ["stone", "stone_bricks", "mossy_stone_bricks", "cracked_stone_bricks", "chiseled_stone_bricks", "deepslate"]) {
         create.crushing([CreateItem.of("create:experience_nugget")], [`minecraft:infested_${stone}`]);
     }
+
+    event.replaceInput({}, '#c:ingots/silver', 'occultism:silver_ingot')
+    event.replaceInput({}, 'iceandfire:silver_ore', 'occultism:silver_ore')
+    event.replaceInput({}, 'iceandfire:silver_nugget', 'occultism:silver_nugget')
+    event.replaceInput({}, 'iceandfire:deepslate_silver_ore', 'occultism:silver_ore_deepslate')
+    event.replaceInput({}, 'iceandfire:raw_silver', 'occultism:raw_silver')
+    event.replaceInput({}, 'iceandfire:raw_silver_block', 'occultism:raw_silver_block')
 });
 
 MoreJS.registerPotionBrewing(event => {
